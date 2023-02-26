@@ -15,6 +15,9 @@ Open nvim and command mode enter `:tutor`
 - `dd` deletes whole line `4dd` deletes 4 lines.
 - `u` undo a single command, `U` restore a line to original state | <ctrl+r> to redo OR `:redo`
 
+## clipboards
+- you can go into visual mode, select the text and then press `"*y` to copy to systems clipboard.
+
 # mason.nvim
 mason is the package manger for nvim.
 
