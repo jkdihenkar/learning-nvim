@@ -29,3 +29,6 @@ Mason provides easy installs for
 
 Example - installing `bash lsp` ![Pasted image 20230226105646.png](./Pasted%20image%2020230226105646.png)
 
+# nvimtree
+NVimTree plugin is used for enabling the side pane file explorer. Shortcut - `ctrl+n`
+
